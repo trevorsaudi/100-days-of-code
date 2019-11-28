@@ -4,8 +4,6 @@ I took to this challenge to help me advance my knowledge and skills in cybersecu
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
 * [Resources](resources.md)
 
 
