@@ -4,7 +4,7 @@ I took to this challenge to help me advance my knowledge and skills in cybersecu
 ## Contents
 
 * [Rules](rules.md)
-* [Resources](resources.md)
+
 
 
 
