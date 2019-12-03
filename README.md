@@ -14,4 +14,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting yo
 * [day3](day3/) Keylogger
 * [day4](day4/) TCP proxy server
 * [day5](day5/) OOP basics
-* [day5](day5/) Dictionary and lists : performance benchmark
+* [day6](day6/) Dictionary vs lists : performance benchmark
