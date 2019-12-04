@@ -15,3 +15,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting yo
 * [day4](day4/) TCP proxy server
 * [day5](day5/) OOP basics
 * [day6](day6/) Dictionary vs lists : performance benchmark
+* [day7](day7/) Linked List and various its operations
