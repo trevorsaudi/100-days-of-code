@@ -17,3 +17,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting yo
 * [day6](day6/) Dictionary vs lists : performance benchmark
 * [day7](day7/) Linked List and various its operations
 * [day8](day8/) A simple packet sniffer
+* [day9](day9/) Played around with the string object
