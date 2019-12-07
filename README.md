@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
-I took to this challenge to help me advance my knowledge and skills in cybersecurity. I will be using python to learn the basics and advanced techniques used in hacking.
-The goal of this challenge is to code for 100 consequtive days whilst posting your daily progress to this repository.
+I took to this challenge to help me advance my knowledge and skills in working with python.
+The goal of this challenge is to code for 100 consequtive days whilst posting my daily progress to this repository.
 
 
 
@@ -18,3 +18,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting yo
 * [day7](day7/) Linked List and various its operations
 * [day8](day8/) A simple packet sniffer
 * [day9](day9/) Played around with the string object
+* [day10](day10/) Sending emails using python only
