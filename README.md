@@ -20,3 +20,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day9](day9/) Played around with the string object
 * [day10](day10/) Sending emails using python 
 * [day11](day11/) Introduction to the opencv library
+* [day12](day12/) Thresholding, arithmetic and logic operartions on images
