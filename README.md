@@ -18,7 +18,7 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day7](day7/) Linked List and various its operations
 * [day8](day8/) A simple packet sniffer
 * [day9](day9/) Played around with the string object
-* [day10](day 10/) Sending emails using python 
+* [day 10](day10/) Sending emails using python 
 * [day11](day11/) Introduction to the opencv library
 * [day12](day12/) Thresholding, arithmetic and logic operartions on images
 * [day13](day13/) Creating color filters
