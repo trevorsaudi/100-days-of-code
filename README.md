@@ -21,3 +21,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day10](day10/) Sending emails using python 
 * [day11](day11/) Introduction to the opencv library
 * [day12](day12/) Thresholding, arithmetic and logic operartions on images
+* [day13](day13/) Creating color filters
