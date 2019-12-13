@@ -24,3 +24,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day13](day13/) Creating color filters
 * [day14](day14/) Removing noise, smoothening and applying blur to images
 * [day15](day15/) A script that sorts out my download folder according to extensions
+* [day16](day16/) A password cracking script for UNIX
