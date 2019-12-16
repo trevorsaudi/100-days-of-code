@@ -27,3 +27,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day16](day16/) A password cracking script for UNIX
 * [day17](day17/) Chrome Password Stealer
 * [day18](day18/) Intro to APIs and RESTful APIs 
+* [day19](day19/) Blogpost Webstite. Using templates
