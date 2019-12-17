@@ -28,3 +28,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day17](day17/) Chrome Password Stealer
 * [day18](day18/) Intro to APIs and RESTful APIs 
 * [day19](day19/) Blogpost Webstite. Using templates
+* [day20](day20/) Blogpost Webstite. Forms and form validation
