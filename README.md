@@ -33,5 +33,5 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day22](day22/) Blogpost Webstite. Login and User Authentication
 * [day23](day23/) Blogpost Webstite. User Account and profile
 * [day24](day24/) Blogpost Webstite. Create, Update, Delete Posts
-* [day24](day24/) Blogpost Webstite. Paignation
-* [day25](day25/) Blogpost Webstite. Reset password using email
+* [day25](day25/) Blogpost Webstite. Pagination
+* [day26](day26/) Blogpost Webstite. Reset password using email
