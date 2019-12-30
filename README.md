@@ -1,5 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
-I took to this challenge to help me advance my knowledge and skills in working with python.
+I took to this challenge to help me advance my programming knowledge
 The goal of this challenge is to code for 100 consequtive days whilst posting my daily progress to this repository.
 
 
