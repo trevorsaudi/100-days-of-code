@@ -37,3 +37,6 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day26](day26/) Blogpost Webstite. Reset password using email
 * [day27](day27/) Blogpost Webstite. Blueprinting and configuration
 * [day28](day28/) Blogpost Webstite. Custom error pages
+* [day29](day29/) Blogpost Webstite. Chrome Dinosaur bot
+* [day30](day30/) Blogpost Webstite. Deployment to server
+* [day31](day31/) Pong game
