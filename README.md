@@ -41,3 +41,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day30](day30/) Blogpost Webstite. Deployment to server
 * [day31](day31/) Pong game
 * [day32](day32/) Bot that plays google chrome dinosaur
+* [day33](day33/) Flappy bird game, w/o controls
