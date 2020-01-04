@@ -42,3 +42,4 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day31](day31/) Pong game
 * [day32](day32/) Bot that plays google chrome dinosaur
 * [day33](day33/) Flappy bird game, w/o controls
+* [day34](day34/) Flappy bird game, a neural network learns to play the game
