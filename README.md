@@ -44,3 +44,5 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day33](day33/) Flappy bird game, w/o controls
 * [day34](day34/) Flappy bird game, a neural network learns to play the game
 * [day35](day35/) Snake game
+* [day36](day36/) ES6 basics
+* [day37](day37/) ES6 basics
