@@ -1,7 +1,1 @@
-day20 export-ignore
-day21 export-ignore
-day22 export-ignore
-day23 export-ignore
-day24 export-ignore
-day25 export-ignore
-day26 export-ignore
+*.sol linguist-language=python,javascript,solidity,css
