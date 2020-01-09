@@ -1,1 +1,1 @@
-*.sol linguist-language=python,javascript,solidity,css
+*.sol linguist-language=python
