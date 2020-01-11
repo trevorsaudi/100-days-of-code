@@ -50,4 +50,6 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day39](day39/) Intro to React, React forms
 * [day40](day40/) Smart Contracts, Ethereum with Solidity
 * [day41](day41/) Intro to React, Props, Lists, Nesting Components
+* [day42](day42/) Intro to React, Stateless Components, Conditional Output, Forms
+
 
