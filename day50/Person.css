@@ -1,0 +1,12 @@
+body{
+
+	background: pink;
+	font-family: sans-serif;
+	transition: all 1s;
+}
+
+
+form{
+	background:white;
+	padding: 20px;
+}
