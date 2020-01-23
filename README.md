@@ -55,4 +55,8 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day44](day44/) Leetcode problems 
 * [day45](day45/) Leetcode problems 
 * [day46](day46/) Leetcode problems 
+* [day47](day47/) Leetcode problems 
+* [day48](day48/) Leetcode problems 
+* [day49](day49/) Leetcode problems 
+* [day50](day50/) Leetcode problems 
 
