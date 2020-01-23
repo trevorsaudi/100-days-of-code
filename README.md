@@ -57,6 +57,6 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day46](day46/) Leetcode problems 
 * [day47](day47/) Leetcode problems 
 * [day48](day48/) Leetcode problems 
-* [day49](day49/) Leetcode problems 
-* [day50](day50/) Leetcode problems 
+* [day49](day49/) Deleting items in react
+* [day50](day50/) Lifecycle methods in react
 
