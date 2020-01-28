@@ -62,4 +62,5 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day51](day51/) To-do list app in react
 * [day52](day52/) APIs in javascript: fetch api
 * [day53](day53/) React Router,Links, NavLinks
-* [day54](day54/) React Axios, Route parameters
+* [day54](day54/) React Axios, Programmatic directs, Higher Order Components
+* [day55](day55/) Route parameters
