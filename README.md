@@ -64,3 +64,6 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day53](day53/) React Router,Links, NavLinks
 * [day54](day54/) React Axios, Programmatic directs, Higher Order Components
 * [day55](day55/) Route parameters
+* [day56](day56/) Redux intro
+* [day57](day57/) Redux
+* [day58](day58/) Redux action creators
