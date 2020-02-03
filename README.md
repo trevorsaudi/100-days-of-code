@@ -67,3 +67,5 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day56](day56/) Redux intro
 * [day57](day57/) Redux
 * [day58](day58/) Redux action creators
+* [day59](day59/) Weather application in react
+* [day60](day60/) ISS tracker using apis 
