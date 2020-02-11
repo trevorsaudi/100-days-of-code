@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+</head>
+<body>
+
+	<script>
+
+		if ('geolocation' in navigator){
+			console.log('geolocation available');
+			navigator.geolocation.getCurrentPosition(position => {
+				const lat = position.coords.latitude;
+				const lon = position.coords.longitude;
+				document.getElementById('latitude').textContent = lat;
+				document.getElementById('longitude').textContent = lon;
+
+				const data = {lat, lon};
+				const options = {
+					method: 'POST',
+					body: JSON.stringify(data),
+					headers: {
+				      'Content-Type': 'application/json'
+				    }
+				};
+
+				fetch('/api' , options);
+
+				});
+		} else {
+			console.log('geolocation not available')
+		}
+
+	</script>
+
+	<h1>Data Selfie App</h1>
+	<p>
+		latitude : <span id="latitude"></span> &deg<br />
+		longitude : <span id="longitude"></span>&deg
+		
+	
+
+	</p>
+</body>
+</html>
+
+<!-- to do, add leaflet.js to show us where we are exactly on the map -->
