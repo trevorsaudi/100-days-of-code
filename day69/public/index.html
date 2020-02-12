@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+</head>
+<body>
+
+	<h1>Data Selfie App</h1>
+	<p>
+		latitude : <span id="latitude"></span> &deg<br />
+		longitude : <span id="longitude"></span>&deg
+	</p>
+	<input type="text" id="mood"/>
+	<button id="submit">Submit</button>
+	<script>
+
+		let lat, lon;
+		
+		const button = document.getElementById('submit');
+		button.addEventListener('click', async event => {
+			const mood = document.getElementById("mood").value
+			console.log(mood)
+			const data = {lat, lon, mood};
+				const options = {
+					method: 'POST',
+					body: JSON.stringify(data),
+					headers: {
+				      'Content-Type': 'application/json'
+				    }
+				};
+
+				const response = await fetch('/api' , options);
+				const json = await response.json();
+				console.log(json);
+		})
+
+
+		if ('geolocation' in navigator){
+			console.log('geolocation available');
+			navigator.geolocation.getCurrentPosition(
+
+				async position => {
+				 lat = position.coords.latitude;
+				 lon = position.coords.longitude;
+				document.getElementById('latitude').textContent = lat;
+				document.getElementById('longitude').textContent = lon;
+
+				
+
+
+
+
+
+				});
+		} else {
+			console.log('geolocation not available')
+		}
+
+	</script>
+
+</body>
+</html>
+
+<!-- to do, add leaflet.js to show us where we are exactly on the map -->
