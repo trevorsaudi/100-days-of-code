@@ -77,7 +77,7 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day66](day66/) Material-react CRUD application
 * [day67](day67/) Material-react CRUD application
 * [day68](day68/) using chart js to consume an api
-* [day69](day69/) using chart js to consume an api
+* [day69](day69/) the data selfie app
 * [day70](day70/) consuming the dark sky api
 * [day71](day71/) consuming the dark sky api
 * [day72](day72/) consuming the dark sky api
