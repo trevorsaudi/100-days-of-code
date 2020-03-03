@@ -81,4 +81,21 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day70](day70/) consuming the dark sky api
 * [day71](day71/) consuming the dark sky api
 * [day72](day72/) consuming the dark sky api
+* [day73](day73/) consuming the dark sky api
+* [day74](day74/) consuming the dark sky api
+* [day75](day75/) consuming the dark sky api
+* [day76](day76/) consuming the dark sky api
+* [day77](day77/) Material CRUD
+* [day78](day78/) Material CRUD
+* [day79](day79/) Material CRUD
+* [day80](day80/) Material CRUD
+* [day81](day81/) Material CRUD
+* [day82](day82/) React Planner application
+* [day83](day83/) React Planner application
+* [day84](day84/) React Planner application
+* [day84](day84/) React Planner application
+* [day85](day85/) React Planner application
+* [day86](day86/) React Planner application
+* [day87](day87/) React Planner application
+* [day88](day88/) React Planner application
 
