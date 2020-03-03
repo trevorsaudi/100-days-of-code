@@ -97,5 +97,6 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day85](day85/) React Planner application
 * [day86](day86/) React Planner application
 * [day87](day87/) React Planner application
-* [day88](day88/) React Planner application
+* [day88](day88/) React Planner application, thunk and redux
+* [day89](day89/) React Planner application, firebase and firestore
 
