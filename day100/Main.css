@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #FCC000
+}
+
+#upper-text{
+    width: 275px;
+    height: 180px;
+    display: inline-block;
+    font-family: fantasy;
+    font-size: 50px;
+    letter-spacing: 5px;
+    border-bottom: 4px solid black;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+
+}
+#bottom-text{
+    width: 480px;
+    height: 80px;
+    display: inline-block;
+    font-family: fantasy;
+    font-size: 50px;
+    letter-spacing: 5px;
+    position: absolute;
+    top: 53%;
+    left: 57%;
+    transform: translateX(-50%);
+    overflow: hidden;
+    z-index: -1;
+}
+
+#text1{
+    position: absolute;
+    top: 200px;
+    animation: anim1 1s;
+    animation-fill-mode: forwards;
+    animation-delay: .5s
+}
+
+#text2{
+    position: absolute;
+    top:200px;
+    color:white;
+    animation: anim2 .5s;
+    animation-fill-mode: forwards;
+    animation-delay: 1.5s
+}
+
+#text3{
+    position: absolute;
+    top: -100px;
+    animation: anim3 .6s;
+    animation-fill-mode: forwards;
+    animation-delay: 1.55s
+}
+
+@keyframes anim1{
+    0%{
+        top:200px;
+    }
+    40%,
+    60%{
+        top:100%;
+    }
+    100%{
+        top:30px;
+
+    }
+
+}
+
+@keyframes anim2{
+    0%{
+        top:200px;
+        
+    }
+    100%{
+        top:100px;
+    }
+}
+
+@keyframes anim3{
+    0%{
+        top: -100px;
+    }
+    100%{
+        top:20px;
+    }
+}
