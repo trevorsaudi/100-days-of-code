@@ -99,4 +99,15 @@ The goal of this challenge is to code for 100 consequtive days whilst posting my
 * [day87](day87/) React Planner application
 * [day88](day88/) React Planner application, thunk and redux
 * [day89](day89/) React Planner application, firebase and firestore
+* [day90](day90/) React Planner application, firebase and firestore
+* [day91](day91/) React Planner application, firebase and firestore
+* [day92](day92/) React Planner application, firebase and firestore
+* [day93](day93/) React Planner application, firebase and firestore
+* [day94](day94/) css basics
+* [day95](day95/) css basics
+* [day96](day96/) COVID-19 tracker
+* [day97](day97/) bike css website
+* [day98](day98/) bike css website
+* [day99](day99/) CSS loader
+* [day100](day100/) Challenge complete, animated with css
 
